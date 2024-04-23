@@ -1,6 +1,6 @@
 main div{
     width: 20%;
-    min-height: 400px;
+    min-height: 200px;
 }
 main div img{
     width: 100%;
@@ -41,15 +41,20 @@ main div a{
 @media screen and (max-width: 1000px){
     main{
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     main div{
-        width: 85%;
+        width: 55%;
+        margin: 0 auto;
     }
     .con-shop{
         width: 85%;
+        text-align: center;
     }
 
     main div img{
         object-fit: contain;
+        height: 400px;
     }
 }
