@@ -224,6 +224,9 @@ footer p i{
     justify-content: center;
     width: 100%;
   }
+  .home_2_con a{
+    position: static;
+  }
   .home_2_con img{
     display: none;
   }
