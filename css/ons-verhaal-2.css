@@ -27,7 +27,11 @@
 @media screen and (max-width: 768px){
     .con-onsverhaal-2{
         flex-direction: column;
+        row-gap: 40px;
+        text-align: center;
     }
+    .con-long{
+        margin-top: 40px;
     .con-onsverhaal {
     width: 80%;
     }
