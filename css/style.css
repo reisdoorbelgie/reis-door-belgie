@@ -196,6 +196,7 @@ footer p i{
       top: 120px;left: 0;
       overflow: hidden;
       z-index: 100;
+      padding-top: 40px;
     }
     .nav > .nav-list > li {
       width: 100%;
