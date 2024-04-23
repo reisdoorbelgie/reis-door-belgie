@@ -63,7 +63,17 @@ input[type=text],input[type=email],textarea{
 .container-description{
     width: 30%;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1000px){
+    main{
+        text-align: center;
+    }
+    form{
+        justify-content: center;
+        align-items: center;
+    }
+    .container-description{
+        margin: 0 auto;
+    }
     .con-contact{
         flex-direction: column;
     }
