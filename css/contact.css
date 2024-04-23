@@ -74,6 +74,9 @@ input[type=text],input[type=email],textarea{
     .container-description{
         margin: 0 auto;
     }
+    .container-description{
+        margin: 0 auto;
+    }
     .con-contact{
         flex-direction: column;
     }
