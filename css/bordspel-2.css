@@ -21,9 +21,11 @@
     width: 50%;
 }
 @media screen and (max-width: 768px){
+    main{
+        text-align: center;
+    }
     .con-bordspel-2-beschrijving{
         flex-direction: column;
-        margin-top: 110px;
         row-gap: 50px;
     }
     .con-bordspel-2-beschrijving .con-bordspel{
@@ -31,5 +33,6 @@
     }
     .con-bordspel-2-beschrijving .con-bordspel-2-img{
         width: 50%;
+        margin: 0 auto;
     }
 }
