@@ -47,6 +47,8 @@ main div a{
     main div{
         width: 55%;
         margin: 0 auto;
+        align-items: center;
+        justify-content: center;
     }
     .con-shop{
         width: 85%;
