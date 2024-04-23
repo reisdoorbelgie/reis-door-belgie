@@ -25,6 +25,9 @@
     min-height: 400px;
 }
 @media screen and (max-width: 768px){
+    .con-onsverhaal-2 img{
+        width: 45%;
+    }
     .con-onsverhaal-2{
         flex-direction: column;
         row-gap: 40px;
