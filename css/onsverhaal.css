@@ -1,6 +1,6 @@
 main div{
     width: 45%;
-    min-height: 400px;
+    min-height: 200px;
 }
 main div img{
     width: 100%;
@@ -35,9 +35,7 @@ main div a{
     font-weight: 700;
     line-height: 1rem;
 }
-footer{
-    margin-top: 120px;
-}
+
 @media screen and (max-width: 768px){
     main{
         flex-direction: column;
