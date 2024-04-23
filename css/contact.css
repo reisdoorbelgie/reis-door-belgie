@@ -67,7 +67,7 @@ input[type=text],input[type=email],textarea{
     main{
         text-align: center;
     }
-    form{
+    .con-contact form{
         justify-content: center;
         align-items: center;
     }
